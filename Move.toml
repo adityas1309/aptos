@@ -1,0 +1,9 @@
+[package]
+name = "FairTradeRegistry"
+version = "0.0.1"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "mainnet" }
+
+[addresses]
+MyModule = "0x316dbfce65fa0b48f1eddf96e1cc2e27c70ae0d4d278889a066834ce1026b4ca"
