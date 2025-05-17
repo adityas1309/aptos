@@ -1,0 +1,1 @@
+Transparent fair trade registry
